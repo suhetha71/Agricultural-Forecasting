@@ -1,0 +1,4 @@
+State,District,Market,Commodity,Variety,Arrival_Date,Min_Price,Max_Price,Modal_Price,Arrivals_in_qtl
+Maharashtra,Nashik,TestMandiPrices,Onion,Red,2026-10-24,2000,3000,INVALID_TEXT,100
+Maharashtra,Nashik,TestMandiPrices,Onion,Red,2026-10-25,2000,3000,-450,100
+Maharashtra,Nashik,TestMandiPrices,Onion,Red,2026-10-26,2000,3000,2400,100

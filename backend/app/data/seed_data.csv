@@ -1,0 +1,703 @@
+state,district,market,commodity,variety,arrival_date,min_price,max_price,modal_price,arrivals_in_qtl,unit,source
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-07-27,2126.39,2260.64,2193.52,3877.2,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-07-28,2094.89,2277.1,2185.99,4897.6,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-07-29,2126.38,2276.64,2201.51,3442.0,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-07-30,2125.38,2253.45,2189.42,4512.0,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-07-31,2131.51,2307.27,2219.39,4601.1,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-08-01,2158.46,2288.72,2223.59,4700.8,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-08-03,2128.11,2320.93,2224.52,4945.8,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-08-04,2147.39,2290.12,2218.75,3724.8,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-08-05,2198.11,2316.51,2257.31,3592.6,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-08-06,2144.68,2343.69,2244.19,4733.4,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-08-07,2184.37,2351.61,2267.99,5564.5,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-08-08,2124.43,2269.81,2197.12,4617.1,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-08-10,2127.61,2326.63,2227.12,4674.0,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-08-11,2082.36,2260.0,2171.18,3478.1,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-08-12,2121.05,2233.91,2177.48,3898.8,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-08-13,2156.69,2273.76,2215.22,4000.4,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-08-14,2114.5,2258.3,2186.4,3846.4,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-08-15,2089.14,2220.18,2154.66,5482.5,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-08-17,2060.03,2179.18,2119.61,5015.5,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-08-18,2015.48,2131.26,2073.37,4228.8,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-08-19,2062.56,2222.69,2142.62,4915.4,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-08-20,2046.01,2235.37,2140.69,5121.0,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-08-21,2076.86,2212.27,2144.57,3977.4,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-08-22,2095.46,2220.91,2158.18,5496.5,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-08-24,2100.83,2274.67,2187.75,4265.2,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-08-25,2061.53,2260.11,2160.82,4407.4,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-08-26,2078.31,2240.14,2159.22,3966.2,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-08-27,2111.11,2278.03,2194.57,5395.1,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-08-28,2065.25,2273.24,2169.24,4521.4,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-08-29,2131.87,2246.5,2189.18,3481.0,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-08-31,2142.15,2334.7,2238.43,4324.9,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-09-01,2218.97,2335.21,2277.09,4233.6,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-09-02,2219.04,2439.41,2329.22,5311.8,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-09-03,2266.32,2379.09,2322.71,4996.6,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-09-04,2224.8,2364.33,2294.57,4817.2,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-09-05,2180.25,2299.76,2240.0,4353.2,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-09-07,2035.53,2227.45,2131.49,3967.6,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-09-08,2088.21,2244.24,2166.22,3777.0,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-09-09,2175.23,2315.16,2245.19,4812.6,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-09-10,2111.11,2280.7,2195.91,3718.9,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-09-11,2106.54,2294.4,2200.47,4568.3,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-09-12,2093.09,2196.09,2144.59,4104.4,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-09-14,2148.13,2351.0,2249.56,5246.2,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-09-15,2189.29,2331.15,2260.22,3505.3,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-09-16,2275.49,2397.24,2336.37,4468.5,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-09-17,2197.4,2313.14,2255.27,5086.4,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-09-18,2175.55,2335.26,2255.4,4612.1,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-09-19,2162.02,2297.41,2229.71,5338.0,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-09-21,2119.72,2282.34,2201.03,5017.3,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-09-22,2151.54,2279.27,2215.41,4076.4,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-09-23,2201.26,2358.65,2279.95,4539.5,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-09-24,2213.57,2335.97,2274.77,3880.6,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-09-25,2174.13,2306.4,2240.27,3870.5,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-09-26,2230.8,2348.51,2289.66,4795.0,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-09-28,2196.36,2401.57,2298.96,3534.4,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-09-29,2320.81,2462.95,2391.88,4880.2,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-09-30,2278.55,2500.55,2389.55,4659.8,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-10-01,2320.32,2490.35,2405.34,5140.4,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-10-02,2344.08,2470.84,2407.46,4344.9,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-10-03,2290.77,2452.84,2371.8,4425.8,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-10-05,2243.91,2468.3,2356.11,3596.4,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-10-06,2206.27,2359.98,2283.13,4138.4,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-10-07,2236.02,2367.52,2301.77,4384.4,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-10-08,2194.18,2349.23,2271.71,4001.7,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-10-09,2190.38,2347.55,2268.96,5313.0,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-10-10,2280.06,2456.29,2368.17,3488.8,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-10-12,2331.38,2562.65,2447.02,5459.3,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-10-13,2328.64,2544.87,2436.75,3749.2,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-10-14,2315.63,2476.77,2396.2,3506.9,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-10-15,2312.03,2470.3,2391.16,5591.9,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-10-16,2293.03,2458.97,2376.0,4326.8,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-10-17,2332.43,2562.36,2447.39,5614.7,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-10-19,2304.52,2435.9,2370.21,4042.6,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-10-20,2228.3,2449.31,2338.81,4678.2,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-10-21,2203.78,2318.52,2261.15,4689.4,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-10-22,2158.37,2319.89,2239.13,5293.6,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-10-23,2240.85,2360.12,2300.48,3793.1,INR/Quintal,SEED_DATA
+Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-10-24,2300.59,2483.73,2392.16,4894.2,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-07-27,2436.55,2668.14,2552.35,5064.0,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-07-28,2478.78,2676.05,2577.41,6146.2,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-07-29,2426.42,2610.51,2518.47,7060.6,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-07-30,2478.14,2625.65,2551.9,6427.0,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-07-31,2452.86,2657.91,2555.39,5220.0,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-08-01,2522.94,2687.53,2605.24,6530.4,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-08-03,2525.5,2779.97,2652.74,7238.7,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-08-04,2604.15,2741.85,2673.0,4968.1,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-08-05,2537.05,2776.92,2656.98,6899.9,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-08-06,2677.52,2859.51,2768.51,4807.5,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-08-07,2690.67,2907.2,2798.93,7213.0,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-08-08,2613.52,2829.59,2721.55,4372.7,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-08-10,2622.89,2841.01,2731.95,7072.9,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-08-11,2613.06,2759.32,2686.19,4684.7,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-08-12,2647.02,2813.77,2730.39,6104.0,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-08-13,2648.83,2876.6,2762.72,4940.4,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-08-14,2630.71,2825.64,2728.18,6975.5,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-08-15,2572.55,2811.07,2691.81,4617.7,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-08-17,2586.61,2714.28,2650.45,6586.2,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-08-18,2560.31,2769.73,2665.02,5109.7,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-08-19,2565.89,2747.97,2656.93,4378.0,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-08-20,2522.59,2656.24,2589.41,6911.0,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-08-21,2523.32,2755.76,2639.54,6039.3,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-08-22,2528.66,2671.96,2600.31,4719.6,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-08-24,2449.62,2670.33,2559.98,6846.0,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-08-25,2538.34,2780.75,2659.55,4959.2,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-08-26,2541.8,2768.67,2655.23,6914.0,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-08-27,2584.05,2764.58,2674.31,6149.9,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-08-28,2612.03,2856.77,2734.4,7181.0,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-08-29,2699.53,2944.83,2822.18,6906.1,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-08-31,2799.51,2984.44,2891.97,7049.4,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-09-01,2765.92,3016.01,2890.96,6855.8,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-09-02,2767.94,3016.06,2892.0,4663.5,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-09-03,2714.08,2969.45,2841.76,6839.9,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-09-04,2746.22,2945.7,2845.96,5235.1,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-09-05,2798.81,3050.86,2924.83,5010.0,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-09-07,2848.44,3036.03,2942.23,6856.6,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-09-08,2793.02,3069.77,2931.4,5159.5,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-09-09,2747.17,3021.45,2884.31,5905.0,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-09-10,2699.92,2963.51,2831.72,4684.5,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-09-11,2716.97,2985.57,2851.27,5119.9,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-09-12,2758.05,2908.79,2833.42,5610.2,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-09-14,2707.69,2924.82,2816.25,5833.1,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-09-15,2670.77,2854.45,2762.61,6022.1,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-09-16,2685.62,2817.93,2751.78,7034.2,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-09-17,2718.01,2926.42,2822.21,6436.3,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-09-18,2715.63,2899.48,2807.56,4552.9,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-09-19,2614.08,2831.59,2722.83,5307.6,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-09-21,2567.45,2788.51,2677.98,5220.9,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-09-22,2675.4,2848.99,2762.2,5534.3,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-09-23,2645.9,2793.05,2719.47,5569.3,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-09-24,2609.34,2864.24,2736.79,6314.2,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-09-25,2698.97,2872.94,2785.95,5939.0,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-09-26,2671.16,2802.58,2736.87,5182.0,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-09-28,2563.8,2775.85,2669.83,5698.5,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-09-29,2599.9,2786.33,2693.12,4969.7,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-09-30,2470.07,2692.61,2581.34,4842.1,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-10-01,2530.48,2665.77,2598.12,5844.8,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-10-02,2453.9,2677.87,2565.88,6528.3,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-10-03,2430.11,2633.39,2531.75,5001.5,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-10-05,2460.21,2611.74,2535.97,5727.9,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-10-06,2434.02,2660.16,2547.09,4561.2,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-10-07,2415.38,2557.95,2486.66,6369.4,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-10-08,2434.72,2615.86,2525.29,5057.6,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-10-09,2417.3,2629.38,2523.34,6583.1,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-10-10,2453.1,2586.96,2520.03,5582.9,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-10-12,2483.84,2671.66,2577.75,4495.6,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-10-13,2608.5,2769.74,2689.12,6810.2,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-10-14,2493.06,2700.93,2596.99,7214.9,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-10-15,2519.1,2719.7,2619.4,7105.1,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-10-16,2559.9,2780.25,2670.08,5813.9,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-10-17,2506.67,2737.04,2621.86,5938.8,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-10-19,2589.84,2779.89,2684.87,5101.7,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-10-20,2551.1,2708.54,2629.82,6199.2,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-10-21,2529.86,2735.43,2632.64,5146.3,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-10-22,2502.51,2635.38,2568.95,5178.6,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-10-23,2467.51,2656.93,2562.22,4751.3,INR/Quintal,SEED_DATA
+NCT of Delhi,Delhi,Azadpur,Onion,Red,2026-10-24,2528.23,2682.19,2605.21,6362.5,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-07-27,2317.49,2479.55,2398.52,8374.7,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-07-28,2312.0,2474.64,2393.32,6998.0,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-07-29,2275.15,2454.98,2365.06,9001.6,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-07-30,2275.96,2488.26,2382.11,9288.9,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-07-31,2304.37,2458.9,2381.63,9239.2,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-08-01,2277.46,2489.5,2383.48,10059.1,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-08-03,2274.74,2450.07,2362.41,8623.3,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-08-04,2306.43,2445.63,2376.03,7049.6,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-08-05,2297.53,2449.76,2373.64,8934.5,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-08-06,2296.04,2456.21,2376.13,6826.7,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-08-07,2277.16,2461.66,2369.41,6260.6,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-08-08,2292.86,2451.59,2372.22,8464.0,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-08-10,2329.28,2459.81,2394.55,8043.0,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-08-11,2337.96,2458.87,2398.41,7704.3,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-08-12,2300.14,2503.18,2401.66,7704.4,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-08-13,2313.03,2516.08,2414.55,9560.9,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-08-14,2354.83,2472.94,2413.88,8361.6,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-08-15,2303.4,2535.66,2419.53,7584.8,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-08-17,2308.12,2498.67,2403.39,9242.4,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-08-18,2270.63,2493.55,2382.09,6967.4,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-08-19,2326.72,2456.0,2391.36,8894.8,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-08-20,2302.99,2482.62,2392.81,7043.7,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-08-21,2318.25,2451.95,2385.1,8639.7,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-08-22,2262.32,2460.44,2361.38,6619.6,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-08-24,2316.01,2442.56,2379.29,6255.3,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-08-25,2271.11,2418.78,2344.94,8927.1,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-08-26,2264.5,2458.91,2361.7,6461.6,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-08-27,2263.59,2455.05,2359.32,8721.7,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-08-28,2275.88,2487.41,2381.64,8611.7,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-08-29,2333.29,2462.31,2397.8,10183.8,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-08-31,2318.41,2483.01,2400.71,7669.3,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-09-01,2300.84,2473.39,2387.12,7549.0,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-09-02,2340.18,2467.75,2403.96,10089.2,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-09-03,2287.73,2474.67,2381.2,9547.7,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-09-04,2278.76,2476.64,2377.7,10108.4,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-09-05,2291.09,2435.16,2363.13,9463.6,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-09-07,2266.96,2428.74,2347.85,9147.2,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-09-08,2274.43,2417.25,2345.84,9642.0,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-09-09,2244.94,2457.28,2351.11,7149.8,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-09-10,2264.96,2430.0,2347.48,8652.4,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-09-11,2242.7,2451.22,2346.96,6895.5,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-09-12,2283.17,2419.99,2351.58,9421.1,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-09-14,2241.49,2432.31,2336.9,7282.7,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-09-15,2308.14,2422.83,2365.48,10037.1,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-09-16,2302.13,2472.71,2387.42,9258.5,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-09-17,2302.8,2497.57,2400.19,8798.2,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-09-18,2311.34,2435.87,2373.6,7058.5,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-09-19,2279.71,2472.67,2376.19,7405.4,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-09-21,2275.55,2449.14,2362.34,7894.6,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-09-22,2256.82,2454.22,2355.52,7506.2,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-09-23,2283.13,2424.51,2353.82,6644.7,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-09-24,2277.17,2411.36,2344.26,6640.2,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-09-25,2255.67,2387.75,2321.71,7037.2,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-09-26,2236.55,2401.77,2319.16,9120.8,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-09-28,2268.42,2412.56,2340.49,6562.2,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-09-29,2273.13,2407.26,2340.19,7082.7,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-09-30,2257.38,2429.96,2343.67,7274.7,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-10-01,2236.95,2459.48,2348.21,8418.8,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-10-02,2242.48,2453.04,2347.76,8162.6,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-10-03,2237.19,2447.76,2342.47,8503.7,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-10-05,2262.71,2395.11,2328.91,6360.6,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-10-06,2226.07,2443.61,2334.84,8108.7,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-10-07,2283.67,2404.52,2344.09,8730.7,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-10-08,2273.7,2391.67,2332.68,6761.7,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-10-09,2212.4,2434.78,2323.59,6635.7,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-10-10,2223.42,2420.05,2321.74,8635.9,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-10-12,2242.53,2412.64,2327.58,7997.1,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-10-13,2239.77,2400.43,2320.1,9676.7,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-10-14,2245.19,2426.96,2336.08,8649.5,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-10-15,2240.2,2435.46,2337.83,10035.1,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-10-16,2249.66,2436.4,2343.03,6793.9,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-10-17,2288.92,2421.62,2355.27,6457.8,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-10-19,2282.68,2464.26,2373.47,7344.2,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-10-20,2304.62,2445.0,2374.81,9048.5,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-10-21,2274.99,2467.03,2371.01,9938.0,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-10-22,2255.28,2457.49,2356.38,8712.7,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-10-23,2259.6,2419.65,2339.63,8382.7,INR/Quintal,SEED_DATA
+Punjab,Ludhiana,Khanna,Wheat,Dara,2026-10-24,2220.96,2403.84,2312.4,9874.5,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-07-27,2452.6,2593.81,2523.21,5784.4,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-07-28,2411.29,2622.59,2516.94,6621.5,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-07-29,2412.91,2616.76,2514.83,7039.1,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-07-30,2406.36,2641.73,2524.04,6401.5,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-07-31,2453.71,2579.32,2516.52,6182.5,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-08-01,2437.07,2596.82,2516.94,5601.2,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-08-03,2443.1,2668.32,2555.71,6640.6,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-08-04,2458.51,2700.02,2579.26,7998.6,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-08-05,2506.03,2634.37,2570.2,7220.1,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-08-06,2465.4,2645.79,2555.59,6884.8,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-08-07,2466.46,2661.57,2564.02,6831.3,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-08-08,2464.99,2648.05,2556.52,5092.0,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-08-10,2443.66,2647.74,2545.7,7544.7,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-08-11,2476.27,2639.54,2557.91,7019.8,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-08-12,2435.26,2656.89,2546.08,6560.3,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-08-13,2496.83,2677.5,2587.17,5806.5,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-08-14,2476.9,2649.67,2563.28,6446.7,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-08-15,2480.03,2728.56,2604.29,6904.5,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-08-17,2509.38,2656.62,2583.0,5957.7,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-08-18,2466.99,2684.13,2575.56,6801.3,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-08-19,2478.39,2669.81,2574.1,7768.6,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-08-20,2471.46,2648.17,2559.82,7034.4,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-08-21,2493.09,2693.35,2593.22,5565.8,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-08-22,2550.8,2696.69,2623.75,6562.7,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-08-24,2487.17,2736.95,2612.06,7721.4,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-08-25,2514.41,2697.21,2605.81,5175.9,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-08-26,2505.17,2720.46,2612.81,6428.4,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-08-27,2511.53,2669.89,2590.71,7471.1,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-08-28,2504.39,2698.08,2601.23,6027.5,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-08-29,2476.56,2716.07,2596.32,6426.4,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-08-31,2539.14,2699.6,2619.37,7328.0,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-09-01,2502.7,2678.65,2590.67,7789.6,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-09-02,2475.87,2633.17,2554.52,5755.4,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-09-03,2454.34,2648.7,2551.52,7996.5,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-09-04,2446.28,2633.86,2540.07,5904.4,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-09-05,2445.33,2634.53,2539.93,6539.0,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-09-07,2451.89,2595.89,2523.89,7032.0,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-09-08,2432.76,2623.5,2528.13,5547.4,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-09-09,2422.78,2634.55,2528.66,7056.7,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-09-10,2413.32,2632.69,2523.01,6035.5,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-09-11,2386.54,2624.78,2505.66,6385.1,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-09-12,2415.98,2539.31,2477.65,6407.3,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-09-14,2338.54,2558.83,2448.68,6209.0,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-09-15,2342.96,2521.1,2432.03,6262.2,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-09-16,2335.76,2528.96,2432.36,5294.0,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-09-17,2332.39,2502.92,2417.65,7901.5,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-09-18,2311.83,2502.46,2407.14,7525.6,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-09-19,2326.88,2543.39,2435.14,7549.9,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-09-21,2326.97,2527.2,2427.08,7230.1,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-09-22,2331.83,2551.27,2441.55,4914.9,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-09-23,2354.03,2581.57,2467.8,7991.8,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-09-24,2376.49,2584.47,2480.48,6188.7,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-09-25,2390.36,2615.33,2502.85,6219.8,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-09-26,2415.94,2620.71,2518.33,7691.0,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-09-28,2470.04,2628.29,2549.16,5999.5,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-09-29,2486.84,2627.45,2557.15,6499.7,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-09-30,2455.49,2597.38,2526.44,5052.7,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-10-01,2400.48,2626.18,2513.33,6783.1,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-10-02,2446.86,2584.91,2515.89,6275.7,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-10-03,2478.83,2632.66,2555.75,5617.0,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-10-05,2468.76,2704.82,2586.79,6968.4,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-10-06,2514.17,2657.91,2586.04,6213.5,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-10-07,2468.78,2670.94,2569.86,6157.8,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-10-08,2510.0,2665.27,2587.63,7505.0,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-10-09,2498.28,2682.7,2590.49,5559.1,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-10-10,2506.26,2702.77,2604.52,6639.4,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-10-12,2491.98,2740.37,2616.18,6906.3,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-10-13,2531.75,2691.52,2611.64,6611.0,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-10-14,2530.93,2661.66,2596.3,6740.5,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-10-15,2473.72,2658.06,2565.89,7693.3,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-10-16,2458.17,2655.4,2556.79,5927.4,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-10-17,2485.12,2688.33,2586.72,6786.9,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-10-19,2469.05,2673.84,2571.44,7482.7,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-10-20,2444.14,2642.94,2543.54,7690.9,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-10-21,2445.62,2620.82,2533.22,6654.6,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-10-22,2415.59,2625.17,2520.38,5088.4,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-10-23,2441.14,2582.89,2512.02,5222.9,INR/Quintal,SEED_DATA
+Madhya Pradesh,Indore,Indore,Wheat,Lokwan,2026-10-24,2447.13,2634.89,2541.01,7908.8,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-07-27,1571.54,1715.97,1643.75,2811.2,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-07-28,1540.94,1682.09,1611.51,3171.0,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-07-29,1621.91,1729.6,1675.76,2584.3,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-07-30,1462.81,1607.45,1535.13,2625.2,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-07-31,1660.33,1803.67,1732.0,3967.9,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-08-01,1617.21,1777.49,1697.35,3687.3,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-08-03,1553.0,1630.47,1591.73,3258.5,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-08-04,1667.23,1787.87,1727.55,3476.5,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-08-05,1600.22,1746.61,1673.42,3904.5,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-08-06,1527.51,1611.0,1569.26,2774.1,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-08-07,1708.8,1841.86,1775.33,3864.4,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-08-08,1756.18,1862.24,1809.21,2501.1,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-08-10,1844.51,1963.53,1904.02,3053.3,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-08-11,1668.76,1762.62,1715.69,3914.0,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-08-12,1639.65,1728.34,1683.99,3819.6,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-08-13,1745.98,1843.83,1794.9,3125.8,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-08-14,1641.64,1802.5,1722.07,3070.6,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-08-15,1523.23,1656.17,1589.7,2647.2,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-08-17,1506.92,1618.64,1562.78,3053.0,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-08-18,1521.61,1671.15,1596.38,2452.3,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-08-19,1463.98,1607.78,1535.88,3768.7,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-08-20,1580.35,1666.0,1623.18,3497.1,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-08-21,1335.19,1425.2,1380.19,3037.0,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-08-22,1288.79,1364.55,1326.67,2595.5,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-08-24,1351.86,1464.24,1408.05,3426.7,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-08-25,1288.95,1391.71,1340.33,2434.2,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-08-26,1339.77,1414.19,1376.98,3303.3,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-08-27,1292.78,1360.84,1326.81,3624.3,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-08-28,1304.09,1426.63,1365.36,2925.7,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-08-29,1408.73,1488.52,1448.63,3840.8,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-08-31,1607.09,1697.89,1652.49,2608.0,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-09-01,1613.8,1713.68,1663.74,2679.2,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-09-02,1619.25,1700.1,1659.68,3664.0,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-09-03,1599.89,1697.87,1648.88,2918.0,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-09-04,1601.35,1741.06,1671.21,3241.7,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-09-05,1634.58,1777.54,1706.06,3162.0,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-09-07,1685.69,1777.88,1731.78,3206.1,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-09-08,1548.44,1700.11,1624.28,2469.4,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-09-09,1611.77,1733.94,1672.85,3132.9,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-09-10,1422.88,1563.65,1493.26,2497.3,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-09-11,1354.95,1469.24,1412.1,3184.4,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-09-12,1376.19,1508.39,1442.29,2517.6,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-09-14,1532.05,1612.48,1572.26,2840.0,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-09-15,1582.06,1711.14,1646.6,3277.4,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-09-16,1459.32,1570.62,1514.97,3125.9,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-09-17,1732.46,1871.31,1801.88,2558.7,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-09-18,1679.05,1817.59,1748.32,3630.3,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-09-19,1509.85,1639.94,1574.9,2744.0,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-09-21,1471.75,1569.48,1520.62,3125.6,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-09-22,1501.48,1607.12,1554.3,2552.1,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-09-23,1392.72,1487.73,1440.23,2644.2,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-09-24,1448.92,1589.13,1519.02,2507.4,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-09-25,1512.05,1593.79,1552.92,3582.1,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-09-26,1461.75,1594.65,1528.2,3290.2,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-09-28,1390.79,1482.48,1436.63,2595.6,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-09-29,1344.94,1435.26,1390.1,3464.5,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-09-30,1350.65,1467.03,1408.84,3949.4,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-10-01,1187.83,1282.72,1235.27,2962.6,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-10-02,1154.08,1249.66,1201.87,2758.8,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-10-03,1165.06,1228.73,1196.9,3752.6,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-10-05,1072.44,1156.65,1114.55,3691.6,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-10-06,1207.15,1319.02,1263.09,3959.3,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-10-07,1288.29,1394.04,1341.17,2442.0,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-10-08,1184.92,1299.96,1242.44,3727.1,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-10-09,1208.69,1311.68,1260.18,2894.4,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-10-10,1300.15,1386.54,1343.34,2409.8,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-10-12,1398.93,1496.26,1447.6,2627.0,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-10-13,1320.24,1427.96,1374.1,2449.1,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-10-14,1344.11,1438.94,1391.52,2945.4,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-10-15,1299.57,1387.94,1343.76,3554.6,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-10-16,1348.6,1420.71,1384.65,2484.2,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-10-17,1246.38,1317.6,1281.99,3388.5,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-10-19,1219.25,1320.56,1269.9,3177.1,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-10-20,1183.44,1268.3,1225.87,2837.1,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-10-21,1209.31,1295.26,1252.29,2853.2,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-10-22,1179.99,1279.04,1229.52,3178.6,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-10-23,1198.4,1281.45,1239.93,3358.9,INR/Quintal,SEED_DATA
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-10-24,1209.23,1269.17,1239.2,2882.3,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-07-27,1660.21,1763.37,1711.79,2650.8,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-07-28,1716.24,1801.32,1758.78,3258.2,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-07-29,1722.61,1869.49,1796.05,2900.4,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-07-30,1788.5,1953.14,1870.82,3344.0,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-07-31,1974.33,2075.64,2024.98,2202.2,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-08-01,1993.94,2186.7,2090.32,3425.1,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-08-03,1889.45,2051.13,1970.29,2780.7,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-08-04,1854.64,1956.65,1905.65,2205.2,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-08-05,1753.33,1895.02,1824.17,3381.4,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-08-06,1873.02,2053.95,1963.48,2302.8,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-08-07,1914.63,2066.44,1990.54,2934.7,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-08-08,1858.79,1987.63,1923.21,2624.9,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-08-10,1818.63,1923.54,1871.09,2915.2,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-08-11,1881.09,1984.45,1932.77,2914.4,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-08-12,1910.13,2075.36,1992.75,3362.5,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-08-13,1850.26,2018.8,1934.53,2517.6,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-08-14,1885.87,2036.72,1961.29,3277.3,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-08-15,1918.92,2077.71,1998.31,2431.9,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-08-17,1917.14,2085.69,2001.41,3276.8,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-08-18,1819.81,1950.93,1885.37,3515.0,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-08-19,1691.84,1829.11,1760.48,3428.2,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-08-20,1640.97,1774.35,1707.66,2393.9,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-08-21,1739.64,1851.94,1795.79,2573.3,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-08-22,1785.97,1878.86,1832.41,2910.6,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-08-24,1745.13,1835.97,1790.55,3381.0,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-08-25,1830.06,1927.15,1878.6,3428.2,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-08-26,1877.4,2018.31,1947.86,2845.9,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-08-27,1771.19,1908.46,1839.82,3323.1,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-08-28,1829.23,1995.35,1912.29,3120.2,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-08-29,1785.45,1902.42,1843.94,2864.7,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-08-31,1807.77,1906.12,1856.94,3478.7,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-09-01,1816.28,1937.3,1876.79,3210.8,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-09-02,1760.02,1868.68,1814.35,2809.7,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-09-03,1745.73,1870.66,1808.19,2933.0,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-09-04,1794.03,1908.02,1851.03,2767.7,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-09-05,1856.41,1979.63,1918.02,3041.9,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-09-07,1891.35,1990.66,1941.0,2312.0,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-09-08,1732.63,1878.08,1805.35,2587.0,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-09-09,1698.11,1860.94,1779.52,3441.3,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-09-10,1593.86,1699.24,1646.55,3020.0,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-09-11,1620.99,1781.68,1701.34,3187.8,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-09-12,1707.11,1825.11,1766.11,3037.8,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-09-14,1774.49,1895.76,1835.13,3322.9,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-09-15,1721.96,1878.64,1800.3,3146.7,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-09-16,1790.99,1941.99,1866.49,2938.3,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-09-17,1661.79,1798.49,1730.14,2788.9,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-09-18,1626.32,1721.15,1673.74,2485.6,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-09-19,1658.64,1821.3,1739.97,2880.1,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-09-21,1700.43,1790.69,1745.56,3399.4,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-09-22,1744.81,1839.53,1792.17,3292.8,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-09-23,1836.73,1930.55,1883.64,2663.3,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-09-24,1642.94,1788.4,1715.67,2365.0,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-09-25,1603.07,1750.47,1676.77,3293.1,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-09-26,1640.69,1789.62,1715.16,2415.0,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-09-28,1563.44,1694.52,1628.98,2519.4,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-09-29,1609.37,1724.94,1667.16,2588.1,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-09-30,1606.17,1728.96,1667.57,2623.7,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-10-01,1502.44,1638.79,1570.62,2855.1,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-10-02,1544.03,1695.41,1619.72,3602.4,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-10-03,1494.44,1603.1,1548.77,2583.6,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-10-05,1404.07,1543.15,1473.61,3359.5,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-10-06,1489.83,1624.46,1557.15,2375.7,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-10-07,1492.56,1633.16,1562.86,2979.1,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-10-08,1652.29,1742.11,1697.2,3401.5,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-10-09,1667.41,1814.76,1741.09,2570.5,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-10-10,1603.29,1756.94,1680.11,2388.7,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-10-12,1436.36,1523.16,1479.76,2829.1,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-10-13,1521.02,1622.85,1571.93,2213.7,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-10-14,1627.68,1727.18,1677.43,3617.1,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-10-15,1656.7,1769.77,1713.24,2215.9,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-10-16,1794.77,1942.77,1868.77,3322.5,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-10-17,1740.71,1838.43,1789.57,2591.0,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-10-19,1802.08,1903.36,1852.72,3198.0,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-10-20,1664.83,1784.76,1724.79,2182.6,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-10-21,1706.01,1863.2,1784.6,2970.8,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-10-22,1739.05,1889.47,1814.26,2940.3,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-10-23,1808.22,1924.79,1866.51,2244.2,INR/Quintal,SEED_DATA
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Local,2026-10-24,1842.56,1972.57,1907.57,3326.2,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-07-27,1372.55,1504.08,1438.32,7862.8,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-07-28,1406.83,1477.19,1442.01,7557.7,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-07-29,1393.54,1492.53,1443.04,7930.5,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-07-30,1413.83,1500.6,1457.22,7187.1,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-07-31,1382.72,1520.3,1451.51,5878.8,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-08-01,1389.54,1495.19,1442.36,7527.5,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-08-03,1425.16,1523.56,1474.36,7388.0,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-08-04,1413.31,1528.81,1471.06,9303.9,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-08-05,1407.01,1533.22,1470.11,6918.0,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-08-06,1412.53,1535.13,1473.83,7981.0,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-08-07,1431.09,1525.65,1478.37,5791.3,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-08-08,1383.54,1490.16,1436.85,8675.7,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-08-10,1405.86,1508.3,1457.08,8232.7,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-08-11,1436.95,1554.09,1495.52,8668.1,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-08-12,1479.95,1587.25,1533.6,6725.4,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-08-13,1508.21,1585.71,1546.96,6373.0,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-08-14,1541.1,1657.43,1599.26,9334.2,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-08-15,1548.87,1668.0,1608.44,6574.9,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-08-17,1550.25,1654.62,1602.44,8553.2,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-08-18,1509.31,1650.82,1580.06,6869.7,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-08-19,1519.66,1664.04,1591.85,8412.4,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-08-20,1530.16,1675.95,1603.06,7074.9,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-08-21,1567.38,1684.24,1625.81,9091.2,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-08-22,1555.12,1672.82,1613.97,8629.3,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-08-24,1544.19,1667.72,1605.95,8708.8,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-08-25,1530.72,1648.65,1589.68,6829.5,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-08-26,1565.63,1666.99,1616.31,7884.8,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-08-27,1571.68,1683.08,1627.38,8211.6,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-08-28,1543.38,1688.43,1615.91,6947.1,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-08-29,1537.72,1692.63,1615.18,6654.6,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-08-31,1625.81,1711.92,1668.87,8015.7,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-09-01,1598.44,1706.57,1652.5,8629.1,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-09-02,1573.52,1662.27,1617.89,7903.4,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-09-03,1488.88,1621.87,1555.38,5755.5,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-09-04,1538.59,1642.92,1590.76,7060.7,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-09-05,1542.63,1663.21,1602.92,7894.1,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-09-07,1518.81,1622.24,1570.53,8486.6,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-09-08,1453.64,1567.77,1510.71,7610.5,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-09-09,1434.89,1523.62,1479.25,6050.4,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-09-10,1437.25,1562.2,1499.72,7496.4,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-09-11,1428.77,1518.0,1473.39,6601.1,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-09-12,1441.55,1545.22,1493.38,9361.4,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-09-14,1426.35,1532.24,1479.3,6084.9,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-09-15,1464.3,1600.59,1532.45,7320.2,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-09-16,1510.48,1591.46,1550.97,8182.2,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-09-17,1463.0,1598.6,1530.8,6823.5,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-09-18,1465.96,1578.65,1522.3,8967.5,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-09-19,1459.06,1594.75,1526.91,8294.3,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-09-21,1488.83,1622.78,1555.81,7532.8,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-09-22,1494.53,1577.2,1535.87,6378.7,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-09-23,1522.4,1599.29,1560.84,7702.6,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-09-24,1538.01,1642.5,1590.26,8638.7,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-09-25,1511.58,1592.51,1552.04,6784.8,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-09-26,1463.23,1610.76,1537.0,8320.8,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-09-28,1426.01,1556.52,1491.26,5901.6,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-09-29,1412.54,1552.92,1482.73,8033.8,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-09-30,1398.88,1492.17,1445.53,8917.4,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-10-01,1395.11,1519.64,1457.37,8024.2,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-10-02,1433.04,1535.09,1484.06,9040.2,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-10-03,1502.88,1580.99,1541.93,6090.6,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-10-05,1497.74,1595.94,1546.84,8285.0,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-10-06,1505.02,1605.5,1555.26,9153.4,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-10-07,1541.54,1636.94,1589.24,8006.5,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-10-08,1496.18,1611.86,1554.02,6094.4,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-10-09,1484.27,1595.33,1539.8,6257.4,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-10-10,1492.45,1638.34,1565.4,6203.2,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-10-12,1479.83,1598.41,1539.12,8784.5,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-10-13,1445.65,1558.38,1502.02,8719.6,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-10-14,1448.05,1566.83,1507.44,7787.9,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-10-15,1446.8,1566.19,1506.5,8501.1,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-10-16,1420.37,1526.31,1473.34,7976.9,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-10-17,1444.14,1536.39,1490.26,9212.4,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-10-19,1385.35,1502.11,1443.73,6740.4,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-10-20,1411.5,1486.12,1448.81,5849.7,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-10-21,1381.04,1463.23,1422.14,7900.0,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-10-22,1388.74,1479.08,1433.91,8318.9,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-10-23,1361.86,1497.41,1429.63,6115.4,INR/Quintal,SEED_DATA
+Uttar Pradesh,Agra,Agra,Potato,Deshi,2026-10-24,1335.62,1426.47,1381.05,7731.2,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-07-27,1519.13,1614.46,1566.79,4282.4,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-07-28,1553.79,1637.8,1595.8,4386.0,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-07-29,1519.34,1613.19,1566.27,5795.0,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-07-30,1548.24,1636.89,1592.57,4477.2,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-07-31,1504.19,1637.11,1570.65,4895.8,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-08-01,1502.95,1616.35,1559.65,4897.0,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-08-03,1485.53,1631.03,1558.28,4913.3,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-08-04,1490.95,1638.67,1564.81,4202.1,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-08-05,1504.02,1615.95,1559.99,5836.7,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-08-06,1505.73,1630.24,1567.98,4827.9,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-08-07,1463.58,1567.68,1515.63,5837.0,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-08-08,1443.37,1568.23,1505.8,5546.4,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-08-10,1433.76,1546.06,1489.91,4151.9,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-08-11,1458.19,1571.12,1514.65,3855.2,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-08-12,1424.54,1514.81,1469.67,6098.3,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-08-13,1413.42,1532.21,1472.81,3966.1,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-08-14,1439.96,1569.6,1504.78,4505.8,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-08-15,1433.46,1573.38,1503.42,5524.7,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-08-17,1462.38,1571.61,1516.99,3786.0,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-08-18,1508.89,1593.55,1551.22,4490.9,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-08-19,1463.18,1580.51,1521.85,4938.0,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-08-20,1480.52,1577.99,1529.25,5177.0,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-08-21,1510.2,1641.78,1575.99,4408.1,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-08-22,1596.21,1701.99,1649.1,5704.3,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-08-24,1553.25,1653.28,1603.26,5673.6,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-08-25,1541.13,1645.79,1593.46,5325.8,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-08-26,1559.42,1699.97,1629.69,5452.0,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-08-27,1557.28,1688.79,1623.04,3740.3,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-08-28,1482.8,1615.37,1549.09,5576.6,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-08-29,1502.81,1621.09,1561.95,5442.4,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-08-31,1487.34,1608.37,1547.86,5193.4,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-09-01,1472.49,1608.64,1540.57,4037.1,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-09-02,1467.19,1611.12,1539.15,3944.2,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-09-03,1496.83,1571.88,1534.36,4443.5,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-09-04,1508.23,1613.92,1561.07,5573.7,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-09-05,1523.15,1670.35,1596.75,5813.4,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-09-07,1551.62,1638.76,1595.19,4183.0,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-09-08,1534.19,1634.97,1584.58,5297.5,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-09-09,1516.47,1604.34,1560.41,5909.7,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-09-10,1507.15,1607.49,1557.32,4543.0,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-09-11,1502.69,1626.09,1564.39,5373.6,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-09-12,1461.94,1579.47,1520.7,4146.0,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-09-14,1479.06,1568.65,1523.86,6058.6,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-09-15,1513.24,1610.52,1561.88,4383.1,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-09-16,1524.45,1623.97,1574.21,4529.6,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-09-17,1541.6,1691.65,1616.62,5623.7,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-09-18,1548.15,1677.97,1613.06,4605.3,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-09-19,1548.59,1703.13,1625.86,5680.0,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-09-21,1620.78,1724.38,1672.58,4379.7,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-09-22,1586.57,1722.71,1654.64,4523.6,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-09-23,1573.58,1689.41,1631.5,4170.1,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-09-24,1576.62,1697.52,1637.07,5960.9,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-09-25,1566.55,1692.94,1629.74,5112.7,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-09-26,1565.29,1661.51,1613.4,5316.1,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-09-28,1533.17,1612.64,1572.91,4687.6,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-09-29,1500.93,1629.98,1565.45,3921.3,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-09-30,1508.12,1624.69,1566.41,5951.3,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-10-01,1511.31,1616.93,1564.12,5965.8,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-10-02,1542.08,1633.5,1587.79,6036.6,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-10-03,1515.77,1615.04,1565.41,5257.4,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-10-05,1516.6,1635.69,1576.14,4986.1,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-10-06,1504.76,1634.58,1569.67,5969.8,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-10-07,1513.34,1656.53,1584.93,4105.7,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-10-08,1503.13,1648.32,1575.73,6118.1,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-10-09,1477.74,1621.81,1549.77,6032.2,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-10-10,1498.12,1643.34,1570.73,5823.0,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-10-12,1564.6,1650.03,1607.31,6083.3,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-10-13,1558.75,1657.92,1608.33,6098.3,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-10-14,1502.41,1649.03,1575.72,5760.1,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-10-15,1511.9,1622.33,1567.11,4147.4,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-10-16,1524.97,1635.63,1580.3,4305.3,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-10-17,1545.83,1636.42,1591.13,5479.7,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-10-19,1532.4,1667.34,1599.87,4105.0,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-10-20,1494.32,1633.66,1563.99,5872.8,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-10-21,1539.09,1621.52,1580.3,5314.7,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-10-22,1506.37,1594.55,1550.46,4019.5,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-10-23,1495.54,1588.88,1542.21,4252.0,INR/Quintal,SEED_DATA
+West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,2026-10-24,1496.87,1628.42,1562.64,6012.4,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-07-27,6995.15,7343.21,7169.18,1938.3,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-07-28,6966.46,7556.47,7261.46,1405.9,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-07-29,7050.72,7542.96,7296.84,1802.3,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-07-30,6994.42,7660.99,7327.71,1983.2,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-07-31,6975.16,7647.62,7311.39,1615.5,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-08-01,7050.52,7618.98,7334.75,1547.2,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-08-03,7044.07,7660.87,7352.47,1895.2,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-08-04,7121.61,7622.63,7372.12,1844.3,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-08-05,7000.74,7583.2,7291.97,1546.6,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-08-06,7083.26,7520.48,7301.87,2029.3,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-08-07,7061.13,7569.12,7315.13,1983.4,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-08-08,7104.08,7481.48,7292.78,1857.8,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-08-10,7093.13,7624.92,7359.03,1865.4,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-08-11,7177.56,7584.96,7381.26,1645.3,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-08-12,7131.95,7556.9,7344.43,1874.8,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-08-13,7142.8,7526.89,7334.85,1809.3,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-08-14,7086.17,7620.28,7353.23,1761.1,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-08-15,7100.63,7470.53,7285.58,1766.1,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-08-17,7070.72,7560.92,7315.82,2084.8,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-08-18,6918.54,7523.66,7221.1,1870.5,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-08-19,7087.5,7458.87,7273.18,2244.7,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-08-20,6947.46,7624.01,7285.74,1412.1,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-08-21,7049.54,7542.95,7296.25,2042.1,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-08-22,6977.45,7595.03,7286.24,2230.5,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-08-24,6898.16,7591.16,7244.66,1694.2,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-08-25,6870.38,7515.91,7193.15,2166.1,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-08-26,6844.55,7413.19,7128.87,1835.4,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-08-27,6910.18,7481.31,7195.74,1663.0,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-08-28,6963.05,7493.49,7228.27,2005.1,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-08-29,7080.19,7508.28,7294.23,1353.1,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-08-31,7045.64,7635.28,7340.46,1840.0,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-09-01,7072.09,7611.97,7342.03,2091.0,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-09-02,7112.58,7561.85,7337.21,2193.7,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-09-03,7081.2,7692.86,7387.03,1451.6,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-09-04,7088.63,7716.14,7402.38,2145.4,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-09-05,7157.23,7514.87,7336.05,1535.5,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-09-07,7061.66,7624.84,7343.25,1983.0,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-09-08,7161.9,7531.71,7346.81,2016.5,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-09-09,7091.68,7518.51,7305.1,2127.4,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-09-10,7140.41,7511.91,7326.16,1803.5,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-09-11,6991.04,7597.28,7294.16,1637.0,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-09-12,7113.72,7681.11,7397.42,1955.3,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-09-14,7165.52,7569.83,7367.67,1944.2,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-09-15,7189.83,7623.95,7406.89,1620.5,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-09-16,7194.28,7874.06,7534.17,2170.4,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-09-17,7279.8,7871.05,7575.43,1734.5,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-09-18,7054.97,7744.6,7399.79,1954.2,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-09-19,7079.22,7713.21,7396.22,1636.9,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-09-21,7115.76,7601.96,7358.86,2029.0,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-09-22,7109.0,7630.25,7369.63,2114.4,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-09-23,7015.54,7651.17,7333.35,2173.3,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-09-24,7139.24,7695.5,7417.37,2221.0,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-09-25,7158.45,7598.63,7378.54,1533.0,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-09-26,7069.18,7650.93,7360.06,2180.0,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-09-28,7063.81,7673.8,7368.8,1521.4,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-09-29,7116.93,7563.86,7340.39,1956.3,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-09-30,7031.0,7443.76,7237.38,2035.5,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-10-01,6865.95,7458.75,7162.35,1853.0,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-10-02,6818.45,7269.13,7043.79,2211.3,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-10-03,6893.5,7237.85,7065.67,2193.4,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-10-05,6759.44,7440.91,7100.17,1781.0,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-10-06,6885.44,7308.74,7097.09,1894.0,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-10-07,6872.86,7404.7,7138.78,2048.0,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-10-08,7028.22,7509.95,7269.09,1830.3,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-10-09,6973.96,7499.46,7236.71,1797.5,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-10-10,7079.66,7463.1,7271.38,2233.2,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-10-12,6827.05,7484.58,7155.81,1683.6,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-10-13,6935.82,7423.08,7179.45,1856.3,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-10-14,6968.88,7403.77,7186.33,2191.3,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-10-15,6946.39,7493.66,7220.03,1725.8,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-10-16,7010.02,7490.21,7250.12,2100.0,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-10-17,7029.63,7554.41,7292.02,1939.1,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-10-19,6952.09,7587.74,7269.92,2219.9,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-10-20,6940.0,7509.32,7224.66,1791.5,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-10-21,7071.98,7480.36,7276.17,1998.3,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-10-22,7103.03,7629.26,7366.15,2175.2,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-10-23,7091.63,7461.41,7276.52,1380.4,INR/Quintal,SEED_DATA
+Gujarat,Rajkot,Rajkot,Cotton,Shankar-6,2026-10-24,6929.59,7572.33,7250.96,2200.7,INR/Quintal,SEED_DATA
